@@ -1,5 +1,6 @@
 # Lista-de-Pacientes
-### Projeto criado no curso JavaScript: Programando na linguagem JavaScript da Alura
+### Projeto criado no curso JavaScript: Programando na linguagem JavaScript
+### Alura Cursos
 
 #### Pontos abordados no curso: 
 * Entenda mais como funciona esta popular linguagem do mercado
